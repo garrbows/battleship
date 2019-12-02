@@ -52,7 +52,7 @@ def print_boards():
 		print("     "+"   ".join([str(i) for i in range(10)]))
 
 def get_tile(board,location):
-	return board[location[0]][location[1]]
+	return board[location[1]][location[0]]
 
 def set_tile(board,location,char):
 	board[location[1]][location[0]] = char
