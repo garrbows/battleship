@@ -1,2 +1,2 @@
 # battleship
-Proof of concept for cedar. IGNORE
+Proof of concept for cedar
